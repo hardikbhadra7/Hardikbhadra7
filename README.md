@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Hardik Bhadra 👋
 
-<!--
-**hardikbhadra7/Hardikbhadra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate Web Developer in the making, currently learning Full Stack Web Development step-by-step! 😎
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Small Web Projects & Tools
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Git & GitHub
+- ⚡ My Goal: Become a Full Stack Developer & build real-world tools
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills I'm Learning:
+- Frontend: HTML, CSS, JavaScript (Basic to Advanced)
+- Tools: Git, GitHub, VS Code
+- Coming Soon: Node.js, Express, MongoDB
+
+---
