@@ -13,3 +13,9 @@
 - Coming Soon: Node.js, Express, MongoDB
 
 ---
+
+💌 Connect with Me
+📷 Instagram: @hardik.bhadra
+📩 Email: bhadrahitesh321@gmail 
+
+✨ Always learning, always building! 🚀, Dream Big 💯
